@@ -22,6 +22,10 @@ Replace `./gradlew` with `gradlew.bat` in the above examples if you're on Window
 
 Java Version 8 or higher should be installed on the machine. No additional installation is required.
 
+### Report
+
+The example of the Test Execution Report can be found in the report directory. Just open the index.html file. After each test execution the new report gets generated in the build/reports/tests/chromeTest folder.
+
 ## Conclusion
 
 ####QA and Testing
