@@ -3,7 +3,7 @@
 
 ### Description
 
-This is test automation project uses Geb, Spock and Gradle.
+This test automation project uses Geb, Spock and Gradle.
 The build is setup to work with Chrome browser. Have a look at the `build.gradle` and the `src/test/resources/GebConfig.groovy` files for configuration details.
 
 ### Usage
